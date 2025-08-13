@@ -209,3 +209,5 @@ qdrant_storage/
 02-vector-search/qdrant_storage/
 qdrant_storage/
 02-vector-search/qdrant_storage/
+.env
+*.env
