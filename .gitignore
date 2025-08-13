@@ -207,3 +207,5 @@ marimo/_lsp/
 __marimo__/
 qdrant_storage/
 02-vector-search/qdrant_storage/
+qdrant_storage/
+02-vector-search/qdrant_storage/
